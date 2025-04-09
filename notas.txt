@@ -1,3 +1,4 @@
 Notas del día:
 - Aprender Git
 - Subir repositorio a GitHub
+Trabajo realizado para los repositorios de github y asi se enlasan rapidamente

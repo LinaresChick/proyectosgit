@@ -1,0 +1,3 @@
+Notas del día:
+- Aprender Git
+- Subir repositorio a GitHub

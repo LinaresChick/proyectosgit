@@ -1,0 +1,4 @@
+1. Crear repositorio
+2. Agregar archivos
+3. Hacer commits
+4. Crear ramas

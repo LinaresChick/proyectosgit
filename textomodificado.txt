@@ -1,1 +1,4 @@
 Este es un repositorio local
+
+agregando texto para l repositorio local
+esto es en un ejemplo para git
